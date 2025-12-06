@@ -1,3 +1,5 @@
+<img width="1019" height="507" alt="Captura de pantalla 2025-11-25 140505" src="https://github.com/user-attachments/assets/f633f518-8bc1-40a5-99f0-60a9cb6718c4" />
+
 # 🚀 Pro Scraper - Scraper Web Profesional
 
 Este es un proyecto de web scraping avanzado y profesional diseñado para extraer datos del sitio web de práctica `books.toscrape.com`. El scraper navega a través del catálogo de libros, accede a la página de detalles de cada uno para extraer información específica (título, precio y stock) y finalmente guarda los datos recopilados en un archivo CSV.
